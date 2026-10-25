@@ -1,13 +1,9 @@
 gggg
 
-## 🆕 فایل‌های جدید — ۱۴۰۵/۸/۳, ۱۰:۱۵:۱۹
+## 🆕 فایل‌های جدید — ۱۴۰۵/۸/۳, ۱۱:۱۸:۴۶
 
 - 🟢 **NEW** — [`ips.txt` (raw)](https://raw.githubusercontent.com/Amirhazbavi/Iplist/main/ips.txt)
-- 🟢 **NEW** — [`ip.txt` (raw)](https://raw.githubusercontent.com/Amirhazbavi/Iplist/main/ip.txt)
-- 🟢 **NEW** — [`R.txt` (raw)](https://raw.githubusercontent.com/Amirhazbavi/Iplist/main/R.txt)
-- 🟢 **NEW** — [`G.txt` (raw)](https://raw.githubusercontent.com/Amirhazbavi/Iplist/main/G.txt)
-- 🟢 **NEW** — [`J.txt` (raw)](https://raw.githubusercontent.com/Amirhazbavi/Iplist/main/J.txt)
 
-> آخرین به‌روزرسانی: 2026-10-25T06:45:19.900Z
+> آخرین به‌روزرسانی: 2026-10-25T07:48:46.871Z
 
 ---
